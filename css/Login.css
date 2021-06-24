@@ -12,19 +12,19 @@ body{
     background-position: center; 
 }
 #Ue_Lbl{
-    color: white;
+    color: black;
 }
 #Up_Lbl{
-    color: white;
+    color: black;
 }
 #Remember{
-    color: white;
+    color: black;
 }
 img{
     width: 150px;
 }
 h1{
-    color: white;
+    color: black;
     text-align: center;
     font-weight: bolder;
 }
